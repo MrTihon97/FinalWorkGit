@@ -10,7 +10,7 @@
 
 ### Блок-схема алгоритма:
 
-![diagram](Diagram\diagram.jpg)
+![Diagram](Diagram\Diagram.drawio.png)
 
 ### Программа:
 Для запуска программы перейдите в папку `solution` и запустите команду через терминал:
